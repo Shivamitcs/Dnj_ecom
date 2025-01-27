@@ -9,4 +9,4 @@ Bootstrap5
 MVC
 MS SQL Server
 Code is not fully publised 
-Anyone wants it I can give you the imssing files
+Anyone wants it I can give you the missing files
